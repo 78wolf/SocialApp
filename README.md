@@ -1,1 +1,1 @@
-# Mental-Health-Journal
+# SocialApp
